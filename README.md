@@ -10,4 +10,7 @@ The Ultimate Trivia Quiz
 ![Quiz-4](https://user-images.githubusercontent.com/63954124/128591296-55497ca0-f52f-45da-8389-51ba250038ed.png)
 <br/>
 
+Live Link:
+https://ultimate-trivia-quiz.herokuapp.com/
+
 
